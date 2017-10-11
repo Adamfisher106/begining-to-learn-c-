@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 1\tutorial 1\bin\Debug\tutorial 1.exe.config
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 1\tutorial 1\bin\Debug\tutorial 1.exe
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 1\tutorial 1\bin\Debug\tutorial 1.pdb
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 1\tutorial 1\obj\Debug\tutorial 1.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 1\tutorial 1\obj\Debug\tutorial 1.exe
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 1\tutorial 1\obj\Debug\tutorial 1.pdb

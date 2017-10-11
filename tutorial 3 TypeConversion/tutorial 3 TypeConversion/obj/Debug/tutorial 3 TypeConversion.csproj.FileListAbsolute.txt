@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 3 TypeConversion\tutorial 3 TypeConversion\obj\Debug\tutorial 3 TypeConversion.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 3 TypeConversion\tutorial 3 TypeConversion\bin\Debug\tutorial 3 TypeConversion.exe.config
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 3 TypeConversion\tutorial 3 TypeConversion\bin\Debug\tutorial 3 TypeConversion.exe
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 3 TypeConversion\tutorial 3 TypeConversion\bin\Debug\tutorial 3 TypeConversion.pdb
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 3 TypeConversion\tutorial 3 TypeConversion\obj\Debug\tutorial 3 TypeConversion.exe
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 3 TypeConversion\tutorial 3 TypeConversion\obj\Debug\tutorial 3 TypeConversion.pdb

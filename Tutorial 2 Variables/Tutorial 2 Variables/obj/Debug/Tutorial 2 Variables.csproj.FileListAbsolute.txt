@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2017\Projects\Tutorial 2 Variables\Tutorial 2 Variables\obj\Debug\Tutorial 2 Variables.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2017\Projects\Tutorial 2 Variables\Tutorial 2 Variables\bin\Debug\Tutorial 2 Variables.exe.config
+c:\users\adam\documents\visual studio 2017\Projects\Tutorial 2 Variables\Tutorial 2 Variables\bin\Debug\Tutorial 2 Variables.exe
+c:\users\adam\documents\visual studio 2017\Projects\Tutorial 2 Variables\Tutorial 2 Variables\bin\Debug\Tutorial 2 Variables.pdb
+c:\users\adam\documents\visual studio 2017\Projects\Tutorial 2 Variables\Tutorial 2 Variables\obj\Debug\Tutorial 2 Variables.exe
+c:\users\adam\documents\visual studio 2017\Projects\Tutorial 2 Variables\Tutorial 2 Variables\obj\Debug\Tutorial 2 Variables.pdb
