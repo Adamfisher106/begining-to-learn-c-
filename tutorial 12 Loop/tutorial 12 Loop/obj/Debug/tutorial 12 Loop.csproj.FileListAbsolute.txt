@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 12 Loop\tutorial 12 Loop\bin\Debug\tutorial 12 Loop.exe.config
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 12 Loop\tutorial 12 Loop\bin\Debug\tutorial 12 Loop.exe
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 12 Loop\tutorial 12 Loop\bin\Debug\tutorial 12 Loop.pdb
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 12 Loop\tutorial 12 Loop\obj\Debug\tutorial 12 Loop.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 12 Loop\tutorial 12 Loop\obj\Debug\tutorial 12 Loop.exe
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 12 Loop\tutorial 12 Loop\obj\Debug\tutorial 12 Loop.pdb

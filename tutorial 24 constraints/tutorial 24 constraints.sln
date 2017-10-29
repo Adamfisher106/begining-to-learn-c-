@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tutorial 24 constraints", "tutorial 24 constraints\tutorial 24 constraints.csproj", "{62BB4C1C-86FA-465B-A4CA-9A28C1A4DFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BB4C1C-86FA-465B-A4CA-9A28C1A4DFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BB4C1C-86FA-465B-A4CA-9A28C1A4DFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BB4C1C-86FA-465B-A4CA-9A28C1A4DFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BB4C1C-86FA-465B-A4CA-9A28C1A4DFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

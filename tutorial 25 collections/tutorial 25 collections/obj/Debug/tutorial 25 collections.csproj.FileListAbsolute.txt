@@ -1,0 +1,5 @@
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 25 collections\tutorial 25 collections\bin\Debug\tutorial 25 collections.exe.config
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 25 collections\tutorial 25 collections\bin\Debug\tutorial 25 collections.exe
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 25 collections\tutorial 25 collections\bin\Debug\tutorial 25 collections.pdb
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 25 collections\tutorial 25 collections\obj\Debug\tutorial 25 collections.exe
+c:\users\adam\documents\visual studio 2017\Projects\tutorial 25 collections\tutorial 25 collections\obj\Debug\tutorial 25 collections.pdb

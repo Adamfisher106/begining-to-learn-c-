@@ -165,6 +165,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>dbExistities.Context.tt</DependentUpon>
     </Compile>
+    <Compile Include="DBContext\dbExistities.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbExistities.tt</DependentUpon>
+    </Compile>
     <Compile Include="DBContext\dbExistities.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -180,11 +185,8 @@
     <Content Include="App_Data\Database1_log.ldf">
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
-    <Content Include="App_Data\DBClient database.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="App_Data\DBClient database.mdf" />
     <Content Include="App_Data\DBClient database_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>DBClient database.mdf</DependentUpon>
     </Content>
     <Content Include="Content\bootstrap.css" />
@@ -192,6 +194,12 @@
     <Content Include="DBContext\dbExistities.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>dbExistities.Context.cs</LastGenOutput>
+      <DependentUpon>dbExistities.edmx</DependentUpon>
+    </Content>
+    <Content Include="DBContext\dbExistities.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>dbExistities.edmx</DependentUpon>
+      <LastGenOutput>dbExistities.cs</LastGenOutput>
     </Content>
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -207,9 +215,9 @@
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>dbExistities.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <None Include="DBContext\dbExistities.edmx.diagram">
+    <Content Include="DBContext\dbExistities.edmx.diagram">
       <DependentUpon>dbExistities.edmx</DependentUpon>
-    </None>
+    </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
